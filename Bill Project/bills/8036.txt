@@ -1,0 +1,14 @@
+    Welcome Grocecam Retail
+
+ Bill No: 8036
+ Customer Name: Anurag
+ Phone Number: 9653614721
+ ============================
+ Products	    OTY	    Price
+ ============================
+ Berries	       8	      800
+ Avacado	       4	      400
+ ----------------------------
+ Grocery Tax		   Rs. 60.0
+ Total Bill		   Rs: 1260.0
+ ----------------------------

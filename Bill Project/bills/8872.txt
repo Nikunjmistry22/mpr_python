@@ -1,0 +1,14 @@
+    Welcome Grocecam Retail
+
+ Bill No: 8872
+ Customer Name: Ash
+ Phone Number: 9876543210
+ ============================
+ Products	    OTY	    Price
+ ============================
+ Apple	       4	      400
+ Banana	       5	      500
+ ----------------------------
+ Grocery Tax		   Rs. 45.0
+ Total Bill		   Rs: 945.0
+ ----------------------------

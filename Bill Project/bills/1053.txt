@@ -1,0 +1,14 @@
+    Welcome Grocecam Retail
+
+ Bill No: 1053
+ Customer Name: Shubham
+ Phone Number: 9869016556
+ ============================
+ Products	    OTY	    Price
+ ============================
+ Eggs	       5	      500
+ Zucchini	       1	      100
+ ----------------------------
+ Grocery Tax		   Rs. 30.0
+ Total Bill		   Rs: 630.0
+ ----------------------------
